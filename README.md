@@ -4,7 +4,9 @@ Coding test for Mayonian Services Inc. built with Typescript, React.js, Tailwind
 
 ## Tech Stack
 
--**Frontend**: React, Typescript -**Build tool**: Vite -**Linting & Formatting**: ESLint, Prettier
+-**Frontend**: React, Typescript 
+-**Build tool**: Vite 
+-**Linting & Formatting**: ESLint, Prettier
 
 ## Installation
 
