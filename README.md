@@ -4,24 +4,25 @@ Coding test for Mayonian Services Inc. built with Typescript, React.js, Tailwind
 
 ## Tech Stack
 
--**Frontend**: React, Typescript -**Build tool**: Vite -**Linting & Formatting**: ESLint, Prettier
+   -**Frontend**: React, Typescript 
+   -**Build tool**: Vite 
+   -**Linting & Formatting**: ESLint, Prettier
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/pmrna/fun88.git
+   cd fun88
    ```
 2. Install Dependencies:
 
-```bash
-  npm install
-```
+   ```bash
+   npm install
+   ```
 
 3. Run the app:
 
-```bash
-npm run dev
-
-```
+   ```bash
+   npm run dev
+   ```
