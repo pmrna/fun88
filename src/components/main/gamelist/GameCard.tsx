@@ -1,5 +1,5 @@
 import { Game } from "../../../api/games";
-import FavoriteIcon from "../../../assets/svg/favorite";
+import FavoriteIcon from "../../../assets/svg/Favorite";
 
 interface GameCardProps {
   game: Game;
