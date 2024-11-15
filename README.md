@@ -2,6 +2,10 @@
 
 Coding test for Mayonian Services Inc. built with Typescript, React.js, TailwindCSS, and Vite.
 
+## Live Demo
+
+Check out the live app here: [Deployed Website](https://fun88-vert-nu.vercel.app).
+
 ## Tech Stack
 
    -**Frontend**: React, Typescript 
