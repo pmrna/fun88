@@ -12,8 +12,8 @@ Coding test for Mayonian Services Inc. built with Typescript, React.js, Tailwind
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/pmrna/fun88.git
+   cd fun88
    ```
 2. Install Dependencies:
 
@@ -25,5 +25,4 @@ Coding test for Mayonian Services Inc. built with Typescript, React.js, Tailwind
 
    ```bash
    npm run dev
-   
    ```
