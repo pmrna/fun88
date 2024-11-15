@@ -32,6 +32,7 @@ function App() {
   const [gameProviders, setGameProviders] = useState<GameProvider[]>([]);
   const [selectedProviders, setSelectedProviders] = useState<string[]>([]);
 
+  // Handle game providers
   const fetchGamesForProviders = useCallback(async (providers: string[]) => {
     try {
       if (providers.length === 0) {

@@ -5,7 +5,6 @@ import Wallet from "../../assets/svg/wallet.svg";
 import Profile from "../../assets/svg/userhead.svg";
 import SmallSectionDivider from "../ui/SectionDivider";
 
-// Define the type for the navigation item
 interface NavItem {
   icon: string;
   altText: string;
@@ -45,7 +44,7 @@ const TopNavBar: React.FC = () => {
               key={index}
               src={item.icon}
               alt={item.altText}
-              className="h-6" // adjust the size as needed
+              className="h-6"
             />
           ))}
           <span className="text-blue-400 font-semibold">$1990.6</span>
@@ -55,7 +54,7 @@ const TopNavBar: React.FC = () => {
               key={index}
               src={item.icon}
               alt={item.altText}
-              className="h-6" // adjust the size as needed
+              className="h-6"
             />
           ))}
         </div>
