@@ -18,7 +18,7 @@ Coding test for Mayonian Services Inc. built with Typescript, React.js, Tailwind
 2. Install Dependencies:
 
    ```bash
-     npm install
+   npm install
    ```
 
 3. Run the app:
