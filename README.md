@@ -1,6 +1,6 @@
 # fun88
 
-Coding test for Mayonian Services Inc. built with Typescript, React.js, TailwindCSS, and Vite.
+Frontend mobile only view web application showcasing games
 
 ## Live Demo
 
